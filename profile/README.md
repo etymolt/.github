@@ -62,4 +62,4 @@ The response is a signed EVP/1 verdict. Take it to counsel, ship it to your down
 
 ## Naming, attested.
 
-— Etymolt · `evp@etymolt.com` · [`@etymolt`](https://twitter.com/etymolt)
+— Etymolt · `hello@etymolt.com` · [`@etymolt`](https://twitter.com/etymolt)
